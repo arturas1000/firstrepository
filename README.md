@@ -9,4 +9,5 @@ Download the program and extract the zip archive.
 ## Usage
 Input numbers a and b.
 
-## Contribution
+## Result
+The output is one number - the sum of two numbers.
