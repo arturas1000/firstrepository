@@ -7,7 +7,8 @@ This program calculates the sum of two numbers.
 Download the program and extract the zip archive.
 
 ## Usage
-Input numbers a and b.
+1. Input two numbers: a and b.
+2. Press Enter.
 
 ## Result
 The output is one number - the sum of two numbers.
